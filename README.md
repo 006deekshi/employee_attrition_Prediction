@@ -36,9 +36,8 @@ Unlike traditional prediction systems, this project also provides **Explainable 
 
 # 🚀 Live Demo
 
-> 🔗 **Coming Soon**
+> 🔗 (https://employeeattritionprediction-9vr5sspwwbxiwsrdp8efye.streamlit.app/)
 
-Deploy on Streamlit Cloud and replace this section with your app link.
 
 ---
 
